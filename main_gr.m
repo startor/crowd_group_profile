@@ -14,6 +14,9 @@ clc;clear;close all
 % util contains some utilized code
 
 %% group detection
+addpath(genpath('CoheGroupDetect'))
+addpath(genpath('descriptor'))
+addpath(genpath('util'))
 main_gr_detection; 
 
 %% group descriptor
