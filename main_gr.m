@@ -20,11 +20,11 @@ addpath(genpath('util'))
 main_gr_detection; 
 
 %% group descriptor
-main_gr_collectiveness;
-main_gr_stability;
-main_gr_uniform;
-main_gr_conflict;
-main_gr_size;
+% main_gr_collectiveness;
+% main_gr_stability;
+% main_gr_uniform;
+% main_gr_conflict;
+% main_gr_size;
 
 
 
